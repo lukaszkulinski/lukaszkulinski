@@ -23,4 +23,12 @@
 - [ ] Complete API Platform tutorial
 - [ ] Build own API
 
-    
+### Databases
+- [ ] Understanding of NoSQL
+
+### Create own project
+- [ ] Come up with an idea for a project
+- [ ] Build backend with symfony
+- [ ] Build frontend with HTML, CSS and JavaScript
+- [ ] Create an API    
+- [ ] Create React App   
